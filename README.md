@@ -1,7 +1,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKuuuna98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![followers](https://img.shields.io/github/followers/Kuuuna98?style=social)
 
-Hello! My name is Kwon Yuna :) 
-
+Hello! My name is Kwon Yuna :)  
+I have project experience using Java & android, Python, C++.  
 I'm very interested in mobile application development. I'm currently learning ios application development.🌱
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kuuuna98&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
