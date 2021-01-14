@@ -2,7 +2,7 @@
 
 Hello! My name is Kwon Yuna :)  
 I have project experience using Java & android, Python, C++.  
-I'm very interested in mobile application development. I'm currently learning ios application development.🌱
+I'm very interested in mobile application development.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kuuuna98&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
