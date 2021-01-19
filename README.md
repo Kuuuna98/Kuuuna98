@@ -2,7 +2,7 @@
 
 Hello! My name is Kwon Yuna :)  
 I have project experience using Java & android, Python, C++.  
-I'm very interested in mobile application development.
+I'm very interested in mobile application development. I'm currently learning <u>front-end</u> development.🌱
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kuuuna98&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,8 +12,6 @@ I'm very interested in mobile application development.
 - [[Java/Android Studio/Python/Nodejs] Speaker Identification System](https://github.com/Kuuuna98/Speaker-Identification-System-Development-By-Using-Deep-Learning)
 - [[Java] File and chat transmission program](https://github.com/CNU-ComputerEngineeringClassProject/__2019-Junior__Data-Communications)
 - [[Java/Android Studio] Interesting bus ticketing app. It is with reservation, friend and transfer functionality](https://github.com/CNU-ComputerEngineeringClassProject/__2019-Junior__Software-Engineering--BusTicketingApp)
-- [[Java] Algorithm problems](https://github.com/Kuuuna98/__Autodidacticism__Algorithm)
-- [[Java/Android Studio] Do you want to use biometric data detected using smart bands or smartphones? Click!](https://github.com/Kuuuna98/biometric-data-acquisition-framework)
 - [[etc.] Projects practiced in major classes](https://github.com/CNU-ComputerEngineeringClassProject)
 
 #### 📬 Contacts
