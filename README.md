@@ -3,7 +3,7 @@
 Hello! My name is Kwon Yuna :)  
 I have project experience using Java & android, Python, C++.  
 I'm very interested in mobile application development. I'm currently learning <u>Back-End</u> development.🌱
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunaghgh)](https://solved.ac/yunaghgh)
 
 #### 📌Contains
 - [[Java/Android Studio] Contributing to Nextcloud Android app](https://github.com/Kuuuna98/android)
