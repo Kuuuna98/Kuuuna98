@@ -1,6 +1,7 @@
 ### 👋 Hi there!
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunaghgh)](https://solved.ac/yunaghgh) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuuuna98&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true&theme=solarized-light&hide_title=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuuuna98&show_icons=true&include_all_commits=true&disable_animations=true&theme=solarized-light&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunaghgh)](https://solved.ac/yunaghgh) 
 
 #### 📌Contains
 - [[Java/Android Studio] Contributing to Nextcloud Android app](https://github.com/Kuuuna98/android)
