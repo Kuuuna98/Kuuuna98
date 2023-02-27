@@ -5,7 +5,6 @@
 
 #### 📌Contains
 - [[Java/Android Studio] Contributing to Nextcloud Android app](https://github.com/Kuuuna98/android)
-- [[C++] Text Editor](https://github.com/CNU-ComputerEngineeringClassProject/__2020-Senior__ObjectOrientedDesign--TermProject)
 - [[etc.] Projects practiced in major classes](https://github.com/CNU-ComputerEngineeringClassProject)
 
 #### 🌈 Skills
