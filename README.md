@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunaghgh)](https://solved.ac/yunaghgh) 
 
 #### 📌Contains
-- [[Java/Android Studio] Contributing to Nextcloud Android app](https://github.com/Kuuuna98/android)
+- [[Java/Android Studio] Contributing to Nextcloud Android app](https://github.com/nextcloud/android)
 - [[etc.] Projects practiced in major classes](https://github.com/CNU-ComputerEngineeringClassProject)
 
 #### 🌈 Skills
